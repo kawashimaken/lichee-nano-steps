@@ -1,5 +1,8 @@
 # lichee-nano-steps
 
+## maker doc
+
+* https://wiki.sipeed.com/soft/Lichee/zh/Nano-Doc-Backup/get_started/first_eye.html
 
 ## build env
 
